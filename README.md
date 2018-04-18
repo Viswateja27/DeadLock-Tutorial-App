@@ -1,4 +1,4 @@
-# DeadLock-App
+# DeadLock-App for OS Project
 <ul>Developers
 <li>Viswateja Yetukuri
 <li>Dhatrija Chowdary
