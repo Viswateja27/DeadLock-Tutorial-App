@@ -1,4 +1,5 @@
 # DeadLock-App
-Developers
-Viswateja Yetukuri & 
-Dhatrija Chowdary
+<ul>Developers
+<li>Viswateja Yetukuri
+<li>Dhatrija Chowdary
+</ul>
